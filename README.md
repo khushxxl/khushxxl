@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @khushxxl
 - 👀 I’m interested in web and app development
-- 🌱 I’m currently learning mern stack 
-- 💞️ I’m looking to collaborate on web dev
+- 🌱 I’m currently learning Flutter 
 - 📫 How to reach me mail me at khushaal.choithramani@gmail.com
 
 <!---
