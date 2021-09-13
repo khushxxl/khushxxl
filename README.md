@@ -1,7 +1,7 @@
-Khushaal Choithramani 🧑‍💻
-Learning Full Stack Web Dev 💪
-Open Source enthusiast ❤️
-Built some awesome projects do check them out
+Khushaal Choithramani 🧑‍💻 <br/>
+Learning Full Stack Web Dev 💪 <br/>
+Open Source enthusiast ❤️ <br />
+Built some awesome projects do check them out <br/>
 and leave a ⭐️ . Thank You!
 
 
