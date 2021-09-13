@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @khushxxl
-- 👀 I’m interested in web and app development
-- 🌱 I’m currently learning Flutter 
-- 📫 How to reach me mail me at khushaal.choithramani@gmail.com
+Khushaal Choithramani 🧑‍💻
+Learning Full Stack Web Dev 💪
+Open Source enthusiast ❤️
+Built some awesome projects do check them out
+and leave a ⭐️ . Thank You!
+
 
 <!---
 khushxxl/khushxxl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
