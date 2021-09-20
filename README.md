@@ -9,7 +9,7 @@
 
 -  **Learning :** Web Development :zap: | Open-Source :fire:    
 -  **Languages :** HTML , CSS3 , JavaScript , DART
--  **Hobbies :** Video Games :basketball: & Music :headphones:
+-  **Hobbies :** Video Games :🎮 : & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [Khushaal](mailto:khushcodezz@gmail.com)
 
