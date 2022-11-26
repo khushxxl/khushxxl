@@ -7,7 +7,7 @@
 
 ### About
 
--  **Learning :** Web Development :zap: | Open-Source :fire | App Development 🔥    
+-  **Learning :** Web Development :zap: | Open-Source 🔥 | App Development 🔥    
 -  **Languages & Texh :** HTML , CSS3 , JavaScript , DART , ReactJS , NextJS , React Native , Solidity
 -  **Hobbies :**  Gaming 🎮 & Music :headphones:
 -  **Contact me :** [Khushaal](mailto:khushcodezz@gmail.com)
