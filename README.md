@@ -1,16 +1,15 @@
 ###  :man_technologist:  [Khushaal Choithramani](https://github.com/khushxxl)
 
-👋 Hi, I'm Khushaal,a passionate self-taught Web Developer developer from India 🚀. 
+👋 Hi, I'm Khushaal,a passionate self-taught Web & developer🚀. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### About
 
--  **Learning :** Web Development :zap: | Open-Source :fire:    
--  **Languages :** HTML , CSS3 , JavaScript , DART
+-  **Learning :** Web Development :zap: | Open-Source :fire | App Development 🔥    
+-  **Languages & Texh :** HTML , CSS3 , JavaScript , DART , ReactJS , NextJS , React Native , Solidity
 -  **Hobbies :**  Gaming 🎮 & Music :headphones:
--  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [Khushaal](mailto:khushcodezz@gmail.com)
 
 
