@@ -1,6 +1,6 @@
 ###  :man_technologist:  [Khushaal Choithramani](https://github.com/khushxxl)
 
-👋 Hi, I'm Khushaal,a passionate self-taught Web & developer🚀. 
+👋 Hi, I'm Khushaal,a passionate self-taught Web & App Developer 🚀. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
