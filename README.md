@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/khushaal_04" target="blank"><img src="https://img.shields.io/twitter/follow/khushaal_04?logo=twitter&style=for-the-badge" alt="khushaal_04" /></a> </p>
 
-- 🌱 I’m currently learning **AI/ML, Nextjs, Reactjs, Threejs,**
+- 🌱 I’m currently learning **AI/ML, Nextjs, Reactjs, Threejs**
 
 - 👨‍💻 All of my projects are available at [https://www.khushcodezz.net](https://www.khushcodezz.net)
 
