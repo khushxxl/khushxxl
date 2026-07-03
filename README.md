@@ -2,7 +2,7 @@
 
 Software engineer based in the UK. I build mobile and web products end to end from design to shipped.
 
-Shipped over 10+ mobile apps
+Shipped over 10+ mobile apps, ex yc engineer, ex barclays intern
 
 **What I work with:**
 
